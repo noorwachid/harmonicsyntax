@@ -68,9 +68,18 @@ If you put make "~word" it'll be "10" and you'll get goes to the begining of the
 - Cut (Copy+Delete)
 - Paste
 - Swap (Cut+Paste)
-- Find 
+- Grab
 - Move
-- Peek (Find+Move)
+- Select
+- Touch (Grab+Move)
+- Find
+  In search mode press enter to finish the pattern or 
+  press the tab to make to replacement input then hit enter to replace
+  - Find
+  - Regex Match
+- Replace
+  - Replace
+  - Regex Placeholder
 
 All maniplation terms is taken from book, and some taken from web terms.
 
