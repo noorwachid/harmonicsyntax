@@ -1,4 +1,5 @@
 # Harmonic Syntax
+Text editor with agnostic key mapping
 
 NOTE: executable file name "hs"
 
